@@ -121,7 +121,7 @@ const Hero = () => {
       <div className="flex flex-col md:flex-row justify-between items-center md:gap-14 gap-8 font-[Poppins]">
         <div className="md:w-1/2 w-full text-center">
           <h1 className="md:text-5xl text-3xl font-extrabold md:leading-tight text-gray-900 tracking-wide">
-            Hotels With Rooftop Pools Near Me
+            Motels With Rooftop Pools Near Me
           </h1>
           <p className="py-4 text-lg text-gray-700 leading-relaxed font-medium">
             Discovering hotels with rooftop pools near you! Whether you're
