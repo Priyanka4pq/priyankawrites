@@ -3,7 +3,7 @@
 // const commentApi = createApi({
 //   reducerPath: "commentApi",
 //   baseQuery: fetchBaseQuery({
-//     baseUrl: "http://localhost:5000/api/comments",
+//     baseUrl: "https://priblogback.vercel.app/api/comments",
 //     credentials: "include",
 //   }),
 //   tagTypes: ["Comments"],
@@ -35,7 +35,7 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 const commentApi = createApi({
   reducerPath: "commentApi",
   baseQuery: fetchBaseQuery({
-    baseUrl: "http://localhost:5000/api/comments",
+    baseUrl: "https://priblogback.vercel.app/api/comments",
     credentials: "include",
   }),
   tagTypes: ["Comments"],
